@@ -4,3 +4,4 @@ Brightside Community Homes Foundation Mobile App
 **Members:**
 - Jasper
 - Carson
+- John
